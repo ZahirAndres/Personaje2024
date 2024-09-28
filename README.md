@@ -16,6 +16,8 @@ Mi personaje al momento de que se acerca a 10 centimetros una persona comienza a
 |Laminas de cartoncillo|<image src="https://th.bing.com/th/id/OIP.frojWIvlst7ymQCnflU7LgHaHa?rs=1&pid=ImgDetMain" width="160"/>|8|10|
 |Botones|<image src="https://img.kwcdn.com/product/fancy/1390ffcb-39f5-48d0-b4be-de9a0dbee124.jpg?imageView2/2/w/800/q/70/format/webp" width="160"/>|10|2.6|
 |Telas reutilzables|<image src="https://th.bing.com/th/id/OIP.bKQZnPaWuDpi3ZOG4PDb6AHaEN?rs=1&pid=ImgDetMain" width="160"/>|12 cm^2|null|
+|Pack cables Jumpers macho-hembra|<image src="https://http2.mlstatic.com/D_NQ_NP_2X_648190-MLM49852695986_052022-F.webp" width="160"/>|2|55|
+|Pack resistencias 220 Ohms|<image src="https://http2.mlstatic.com/D_NQ_NP_2X_829800-CBT73987782566_012024-F.webp" width="160"/>|1|150|
 ## Software a utilizar
 |Software|Versión|
 |--|--|
