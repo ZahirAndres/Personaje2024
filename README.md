@@ -19,10 +19,10 @@ Mi personaje al momento de que se acerca a 10 centimetros una persona comienza a
 |Pack cables Jumpers macho-hembra|<image src="https://http2.mlstatic.com/D_NQ_NP_2X_648190-MLM49852695986_052022-F.webp" width="160"/>|2|55|
 |Pack resistencias 220 Ohms|<image src="https://http2.mlstatic.com/D_NQ_NP_2X_829800-CBT73987782566_012024-F.webp" width="160"/>|1|150|
 ## Software a utilizar
-|Software|Versión|
-|--|--|
-|Thonny|4.1.6|
-|Arduino IDE|2.3.3|
+|Software|Versión|Evidencia|
+|--|--|--|
+|Thonny|4.1.6|![image](https://github.com/user-attachments/assets/37b71a78-512f-4585-a3bd-3251a6c679b5)|
+|Arduino IDE|2.3.3|![image](https://github.com/user-attachments/assets/7457211b-5efb-4b5f-9f93-54ac770d4d92)|
 ## Dibujo del personaje
 ![Imagen de WhatsApp 2024-09-27 a las 23 03 06_ce501838](https://github.com/user-attachments/assets/6b4685e1-f59c-4538-8f60-92e13ee88a5d)
 ![Imagen de WhatsApp 2024-09-27 a las 23 03 21_1f26cbab](https://github.com/user-attachments/assets/a387ee38-2447-440d-92cd-ca535d5c5d9a)
